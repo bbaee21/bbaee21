@@ -1,7 +1,4 @@
-### Hi there 👋
-![어피치](http://t1.daumcdn.net/liveboard/share/96d867250ff34c169079a8dce8002b77.gif)
-
-**bbaee21/bbaee21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 ![어피치](http://t1.daumcdn.net/liveboard/share/96d867250ff34c169079a8dce8002b77.gif)
 
 Here are some ideas to get you started:
 
